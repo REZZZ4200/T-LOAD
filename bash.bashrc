@@ -380,7 +380,7 @@ command_not_found_handle() {
 
 	echo ""
 	echo "" 
-	echo "               "[██████████████████████ 100%]
+	echo "                               "[██████████████████████ 100%]
 	echo ""
 	echo ""
 	echo ""
