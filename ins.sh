@@ -1,6 +1,6 @@
 #!data/data/com.termux/files/etc
-#Tool By Noob Hackers 
-#ThAnKS For Supporting 
+#Tool By EXOTIC才REAPERS 
+#Thanks For Supporting 
 ################
 cyn='\e[0;36m'
 
