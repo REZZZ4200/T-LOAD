@@ -1,5 +1,5 @@
-#!Script  author N117R0
-#By noob hackers
+#!Script author REZZZ4200
+#By EXOTIC才REAPERS
 #Be a creative person not copy paster
 
 ###################################
@@ -27,9 +27,9 @@ echo -e "\e[1m\e[31m\
               ██║      ███████╗╚██████╔╝██║  ██║██████╔╝
               ╚═╝      ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═════╝ v 1.0"
 echo " "  
-echo -e  "                  \e[1m\e[32m▂▃▄▅▆▇▓▒░Coded By \e[31mN17R0 \e[1m\e[32m░▒▓▇▆▅▄▃▂"
+echo -e  "                  \e[1m\e[32m▂▃▄▅▆▇▓▒░Coded By \e[31mREZZZ4200 \e[1m\e[32m░▒▓▇▆▅▄▃▂"
 echo "                      -------------------------"
-echo -e  "            \e[1m\e[32m--------->[\e[31myoutube.com/noobhackers\e[1m\e[32m]<----------"  
+echo -e  "            \e[1m\e[32m--------->[\e[31myoutube.com/EXOTIC才REAPERS\e[1m\e[32m]<----------"  
 echo " "
 echo ""
 sleep 8.0
@@ -78,7 +78,7 @@ echo " "
 echo " "
 echo " "
 echo " "
-echo "             "EXIT FROM TERMUX AND RE OPEN IT AFTER 5 SECONDS |lolcat 
+echo "                     "EXIT TERMUX AND RE-OPEN IT AFTER 5 SECONDS |lolcat 
 echo " "
 echo " "
 sleep 3.0
