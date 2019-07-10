@@ -26,7 +26,7 @@ command_not_found_handle() {
 	echo""
 	echo""
 	echo "               "/█1%...................../
-	sleep 2.0
+	sleep 1.0
 	clear
 	echo " "
 	echo " "
@@ -42,7 +42,7 @@ command_not_found_handle() {
 	echo " "
 	echo " "
 	echo  ' 
-	                   ┬  ┌─┐┌─┐┌┬┐┬┌┐┌┌─┐
+	                   ┬   ┌─┐┌─┐┌┬┐┬┌┐┌┌─┐
 	                   │  │ │├─┤ │││││││ ┬
 	                   ┴─┘└─┘┴ ┴─┴┘┴┘└┘└─┘
 	'
@@ -51,7 +51,7 @@ command_not_found_handle() {
 	echo " "
 	echo " "
 	echo "                "/█4%....................../
-	sleep 2.0
+	sleep 1.0
 	clear
 	echo " "
 	echo " "
@@ -101,7 +101,7 @@ command_not_found_handle() {
 	echo " "
 	echo " "
 	echo "                "/██10%....................../
-	sleep 2.0
+	sleep 1.0
 	clear
 	echo " "
 	echo " "
@@ -176,7 +176,7 @@ command_not_found_handle() {
 	echo " "
 	echo " "
 	echo "               "/█████19%..................../
-	sleep 2.0
+	sleep 1.0
 	clear
 	echo " "
 	echo " "
@@ -201,7 +201,7 @@ command_not_found_handle() {
 	echo " "
 	echo " "
 	echo "               "/██████28%..................../
-	sleep 2.0
+	sleep 1.0
 	clear
 	echo " "
 	echo " "
@@ -226,7 +226,7 @@ command_not_found_handle() {
 	echo " "
 	echo " "
 	echo "                "/████████30%................../
-	sleep 2.0
+	sleep 1.0
 	clear
 	echo " "
 	echo " "
@@ -250,7 +250,7 @@ command_not_found_handle() {
 	echo " "
 	echo " "
 	echo "                "/██████████40%................/
-	sleep 2.0
+	sleep 1.0
 	clear
 	echo " "
 	echo " "
@@ -275,7 +275,7 @@ command_not_found_handle() {
 	echo " "
 	echo " "
 	echo "                "/█████████████50%............./
-	sleep 2.0
+	sleep 1.0
 	clear
 	echo " "
 	echo " "
@@ -300,7 +300,7 @@ command_not_found_handle() {
 	echo " "
 	echo " "
 	echo "                "/████████████████60%........../
-	sleep 2.0
+	sleep 1.0
 	clear
 	echo " "
 	echo " "
@@ -325,7 +325,7 @@ command_not_found_handle() {
 	echo " "
 	echo " "
 	echo "                "/███████████████████88%......./
-	sleep 2.0
+	sleep 1.0
 	clear
 	echo " "
 	echo " "
@@ -367,12 +367,12 @@ command_not_found_handle() {
 	echo ""
 	echo ""
 	echo '
-                       _ _ _ _ _    _ _    _ _   _ _ _ _ _   _ _ _ _ _  _ _ _ _ _    _ _ _ _ __
-                       |  _ _ _|    \  \  /  /   |  _ _  |  |_ _  _ _|  |_ _  _ _|   |   _ _ __|
-                       |  |_ _       \  \/  /    | |   | |      | |         | |      |  |                           
-		       |  _ _|        ¦    ¦     | |   | |      | |         | |      |  |
-                       |  |_ _ _     /  /\  \    | | _ | |      | |      _ _| |_ _   |  |_ _ __ 
-                       |_ _ _ _ |   /_ /  \ _\   |_ _ _ _|      |_|     |__ _ _ _ |  |_ _ _ _ _|
+                       _ _ _ _  _ _    _ _  _ __ _ _  _ _ _ _ _  _ _ _ _ _   _ _ _ _ _
+                       |  _ _|  \  \  /  /  |  __  |  |_ _  _ _| |_ _  _ _|  |   _ __|
+                       |  |_     \  \/  /   | |  | |     | |        | |      |  |                           
+		       |  __|     ¦    ¦    | |  | |     | |        | |      |  |
+                       |  |_ _   /  /\  \   | |__| |     | |     _ _| |_ _   |  |_ _ _ 
+                       |_ _ __| /_ /  \ _\  |_ __ _|     |_|    |__ _ _ _ |  |_ _ _ _|
 	
 	
 	'|lolcat
@@ -387,6 +387,6 @@ command_not_found_handle() {
 	echo ""
 	echo ""
 	echo ""
-	sleep 2.0
+	sleep 3.0
 	mpv /sdcard/scifi.mp3
 
